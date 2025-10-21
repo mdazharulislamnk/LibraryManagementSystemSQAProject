@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.mycompany.librarymanagementsystem.LibraryTest" time="0.047" tests="11" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="21"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\AZHAR\Documents\NetBeansProjects\LibraryManagementSystem\target\test-classes;C:\Users\AZHAR\Documents\NetBeansProjects\LibraryManagementSystem\target\classes;C:\Users\AZHAR\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.3\junit-jupiter-api-5.10.3.jar;C:\Users\AZHAR\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\AZHAR\.m2\repository\org\junit\platform\junit-platform-commons\1.10.3\junit-platform-commons-1.10.3.jar;C:\Users\AZHAR\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\AZHAR\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.3\junit-jupiter-params-5.10.3.jar;C:\Users\AZHAR\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.3\junit-jupiter-engine-5.10.3.jar;C:\Users\AZHAR\.m2\repository\org\junit\platform\junit-platform-engine\1.10.3\junit-platform-engine-1.10.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Dhaka"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="user.country" value="GB"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
+    <property name="sun.java.command" value="C:\Users\AZHAR\AppData\Local\Temp\surefire4846245704593993402\surefirebooter-20250522083026453_3.jar C:\Users\AZHAR\AppData\Local\Temp\surefire4846245704593993402 2025-05-22T08-30-26_366-jvmRun1 surefire-20250522083026453_1tmp surefire_0-20250522083026453_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="test" value="com.mycompany.librarymanagementsystem.LibraryTest"/>
+    <property name="surefire.test.class.path" value="C:\Users\AZHAR\Documents\NetBeansProjects\LibraryManagementSystem\target\test-classes;C:\Users\AZHAR\Documents\NetBeansProjects\LibraryManagementSystem\target\classes;C:\Users\AZHAR\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.3\junit-jupiter-api-5.10.3.jar;C:\Users\AZHAR\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\AZHAR\.m2\repository\org\junit\platform\junit-platform-commons\1.10.3\junit-platform-commons-1.10.3.jar;C:\Users\AZHAR\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\AZHAR\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.3\junit-jupiter-params-5.10.3.jar;C:\Users\AZHAR\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.3\junit-jupiter-engine-5.10.3.jar;C:\Users\AZHAR\.m2\repository\org\junit\platform\junit-platform-engine\1.10.3\junit-platform-engine-1.10.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\AZHAR"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-04-15"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\AZHAR\Documents\NetBeansProjects\LibraryManagementSystem"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\AZHAR\AppData\Local\Temp\surefire4846245704593993402\surefirebooter-20250522083026453_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="21.0.7+8-LTS-245"/>
+    <property name="user.name" value="AZHAR"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\NetBeans-25\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\AZHAR\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\AZHAR\AppData\Local\Temp\"/>
+    <property name="java.version" value="21.0.7"/>
+    <property name="user.dir" value="C:\Users\AZHAR\Documents\NetBeansProjects\LibraryManagementSystem"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Users\Azhar\AppData\Local\Programs\Python\Python310\;C:\Users\Azhar\AppData\Local\Programs\Python\Python310\Scripts\;C:\protoc\bin;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;c:\altera\90sp1\quartus\bin;C:\TDM-GCC-32\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\msys64\mingw64\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Incredibuild;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Go\bin;C:\Users\AZHAR\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\AZHAR\AppData\Local\Programs\Python\Python310\;C:\Users\AZHAR\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\AZHAR\AppData\Local\Programs\Python\Python311\;C:\Users\AZHAR\AppData\Local\Microsoft\WindowsApps;;C:\Users\AZHAR\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.3.1.1\bin;;C:\Users\AZHAR\.dotnet\tools;C:\Users\AZHAR\AppData\Roaming\npm;C:\Users\AZHAR\go\bin;C:\Users\AZHAR\AppData\Local\Programs\cursor\resources\app\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="21.0.7+8-LTS-245"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="65.0"/>
+  </properties>
+  <testcase name="testAddDuplicateBookId" classname="com.mycompany.librarymanagementsystem.LibraryTest" time="0.015">
+    <system-out><![CDATA[✅ Book added successfully: Original Book
+✅ Book added successfully: Duplicate Book
+]]></system-out>
+  </testcase>
+  <testcase name="testAddDuplicateUserId" classname="com.mycompany.librarymanagementsystem.LibraryTest" time="0.005">
+    <system-out><![CDATA[✅ User added successfully: Student One (Student)
+✅ User added successfully: Duplicate Student (Student)
+]]></system-out>
+  </testcase>
+  <testcase name="testGetUsersAndGetBooks" classname="com.mycompany.librarymanagementsystem.LibraryTest" time="0.004"/>
+  <testcase name="testSearchBookById" classname="com.mycompany.librarymanagementsystem.LibraryTest" time="0.001">
+    <system-out><![CDATA[✅ Book added successfully: Test Book
+]]></system-out>
+  </testcase>
+  <testcase name="testSeedDummyData" classname="com.mycompany.librarymanagementsystem.LibraryTest" time="0.0">
+    <system-out><![CDATA[✅ Dummy data loaded.
+]]></system-out>
+  </testcase>
+  <testcase name="testRemoveUser_NonExistentId" classname="com.mycompany.librarymanagementsystem.LibraryTest" time="0.002">
+    <system-out><![CDATA[✅ User added successfully: Librarian (Librarian)
+⚠️ User with ID L999 not found.
+]]></system-out>
+  </testcase>
+  <testcase name="testSearchUserById" classname="com.mycompany.librarymanagementsystem.LibraryTest" time="0.001">
+    <system-out><![CDATA[✅ User added successfully: Admin Name (Admin)
+]]></system-out>
+  </testcase>
+  <testcase name="testAddAndRemoveBook" classname="com.mycompany.librarymanagementsystem.LibraryTest" time="0.001">
+    <system-out><![CDATA[✅ Book added successfully: Book Title
+✅ Book removed successfully: Book Title
+]]></system-out>
+  </testcase>
+  <testcase name="testAddAndRemoveUser" classname="com.mycompany.librarymanagementsystem.LibraryTest" time="0.001">
+    <system-out><![CDATA[✅ User added successfully: Student Name (Student)
+✅ User removed successfully: Student Name
+]]></system-out>
+  </testcase>
+  <testcase name="testSeedDummyDataIdPatterns" classname="com.mycompany.librarymanagementsystem.LibraryTest" time="0.001">
+    <system-out><![CDATA[✅ Dummy data loaded.
+]]></system-out>
+  </testcase>
+  <testcase name="testSearchUserById_CaseInsensitive" classname="com.mycompany.librarymanagementsystem.LibraryTest" time="0.001">
+    <system-out><![CDATA[✅ User added successfully: Case Test Admin (Admin)
+]]></system-out>
+  </testcase>
+</testsuite>

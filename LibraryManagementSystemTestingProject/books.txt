@@ -1,0 +1,3 @@
+B-0001,The Alchemist,Paulo Coelho,Fiction,5
+B-0002,Introduction to Algorithms,Thomas H. Cormen,Education,3
+B-0003,Harry Potter,J.K. Rowling,Fantasy,7

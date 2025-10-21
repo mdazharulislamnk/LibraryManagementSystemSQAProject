@@ -1,0 +1,3 @@
+A-0001,Admin User,admin123,Admin
+L-0001,Librarian User,lib123,Librarian
+S-0001,Student User,stu123,Student

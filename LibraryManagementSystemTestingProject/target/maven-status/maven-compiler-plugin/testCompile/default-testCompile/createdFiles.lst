@@ -1,0 +1,15 @@
+com\mycompany\librarymanagementsystem\FineCalculatorTest.class
+com\mycompany\librarymanagementsystem\FileManagerTest.class
+com\mycompany\librarymanagementsystem\UserTest.class
+com\mycompany\librarymanagementsystem\LibraryTest.class
+com\mycompany\librarymanagementsystem\StudentTest.class
+com\mycompany\librarymanagementsystem\AuthenticationServiceTest.class
+com\mycompany\librarymanagementsystem\IDGeneratorTest.class
+com\mycompany\librarymanagementsystem\LibrarianTest.class
+com\mycompany\librarymanagementsystem\ReportGeneratorTest.class
+com\mycompany\librarymanagementsystem\DateUtilsTest.class
+com\mycompany\librarymanagementsystem\AdminTest.class
+com\mycompany\librarymanagementsystem\UserTest$UserImpl.class
+com\mycompany\librarymanagementsystem\BookTest.class
+com\mycompany\librarymanagementsystem\ReservationTest.class
+com\mycompany\librarymanagementsystem\TransactionTest.class
